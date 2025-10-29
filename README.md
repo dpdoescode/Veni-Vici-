@@ -1,10 +1,10 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - *Dog Bash*
 
-Submitted by: **Your Name Here**
+Submitted by: **Diego Perez-Aguilar**
 
-This web app: **insert description**
+This web app: **Search the web for cute doggos and get rid of the canines you do not want.**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
